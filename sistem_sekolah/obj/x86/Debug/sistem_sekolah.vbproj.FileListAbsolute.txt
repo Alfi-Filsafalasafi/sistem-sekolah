@@ -1,0 +1,55 @@
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.exe
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.pdb
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.xml
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Resources.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.vbproj.GenerateResource.Cache
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.exe
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.xml
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.pdb
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_login.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_teacher.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_Teaching_schedule.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_edit_profil.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_info_subject.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_view_schedule.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_admin.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_manage_student.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_teacher.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_schedule.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_class.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_student.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_subject.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_user.resources
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.exe.config
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.vbprojResolveAssemblyReference.cache
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\RdlCompile.cache
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\RdlCompile.compiled
+E:\Produktif RPL\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.rpt_schedule.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.exe.config
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.exe
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.xml
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.pdb
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.exe
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.pdb
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\bin\Debug\sistem_sekolah.xml
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.vbprojResolveAssemblyReference.cache
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_subject.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_admin.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_edit_profil.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_info_subject.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_login.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_class.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_schedule.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_manage_student.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_manage_teacher.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_teacher.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.form_Teaching_schedule.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_user.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_view_schedule.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_student.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Resources.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.rpt_schedule.resources
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.vbproj.GenerateResource.Cache
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\RdlCompile.cache
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SMKN 1 PURWOSARI 17\Documents\project vbku\sistem_sekolah\sistem_sekolah\sistem_sekolah\obj\x86\Debug\sistem_sekolah.Form_daftar_siswa.resources

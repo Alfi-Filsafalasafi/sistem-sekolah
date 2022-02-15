@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sistem_sekolah
+</name>
+</assembly>
+<members>
+<member name="T:sistem_sekolah.sekolahkuDataSet.v_schedule1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSet.v_schedule1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSet.v_schedule1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSetTableAdapters.v_schedule1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sistem_sekolah.sekolahkuDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sistem_sekolah.sekolahkuDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sistem_sekolah.sekolahkuDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.UpdateAll(sistem_sekolah.sekolahkuDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sistem_sekolah.sekolahkuDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:sistem_sekolah.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:sistem_sekolah.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:sistem_sekolah.My.Resources.Resources.user_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:sistem_sekolah.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1.karyawanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1.karyawanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1.karyawanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1TableAdapters.karyawanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(sistem_sekolah.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(sistem_sekolah.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(sistem_sekolah.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.UpdateAll(sistem_sekolah.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sistem_sekolah.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSet.karyawanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSet.karyawanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSet.karyawanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSetTableAdapters.karyawanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sistem_sekolah.report_alfiDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sistem_sekolah.report_alfiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sistem_sekolah.report_alfiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.UpdateAll(sistem_sekolah.report_alfiDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sistem_sekolah.report_alfiDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

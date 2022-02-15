@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sistem_sekolah", "sistem_sekolah\sistem_sekolah.vbproj", "{556774D9-5E10-4B4C-B29B-5CFDF73E1D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556774D9-5E10-4B4C-B29B-5CFDF73E1D1E}.Debug|x86.ActiveCfg = Debug|x86
+		{556774D9-5E10-4B4C-B29B-5CFDF73E1D1E}.Debug|x86.Build.0 = Debug|x86
+		{556774D9-5E10-4B4C-B29B-5CFDF73E1D1E}.Release|x86.ActiveCfg = Release|x86
+		{556774D9-5E10-4B4C-B29B-5CFDF73E1D1E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
